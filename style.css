@@ -1,0 +1,14 @@
+#viewport-params-size {
+    content: attr(text);
+    position: absolute;
+    display: inline-block;
+    background: rgb(64, 224, 208);
+    right: 4px;
+    left: auto;
+    font-size: 8px;
+    padding: 4px;
+    vertical-align: top;
+}
+#viewport-params-size {
+    top: 4px;
+}
